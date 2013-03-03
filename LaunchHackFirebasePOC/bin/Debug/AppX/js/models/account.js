@@ -5,9 +5,10 @@ var Account = Backbone.Model.extend({
     defaults: {
                 id: null,
                 name: null,
-                venuesRaw: {},
-                venues: {},
+                venuesRaw: {}, // The venue JSON data that is returned from FireBase
+                venues: {}, // The VenueCollection model
                 totalRedeemed: 0,
+                reward: null // The Reward model
     },
 
     initialize: function () {
@@ -34,10 +35,17 @@ var Account = Backbone.Model.extend({
                 return totalSaved;
             },
 
+            getTotalCurrentWeekValue: function() {
+                //needs to be built
+                return 0;
+            },
+
             getTotalAvailable: function () {
                 var totalSaved = this.getSavings();
+                var totalRedeemed = this.get('totalRedeemed');
+                var totalCurrentWeekValue = this.getTotalCurrentWeekValue();// The total value of current weeks should be removed because they haven't been "saved" yet.
 
-                return (totalSaved - this.get('totalRedeemed'));
+                return ((totalSaved - totalCurrentWeekValue)- totalRedeemed);
             },
 
             createVenue: function (name, target) {
@@ -59,9 +67,21 @@ var Account = Backbone.Model.extend({
                     id: this.get('id'),
                     name: this.get('name'),
                     venuesRaw: this.get('venues').toJSON(),
-                    totalRedeemed: this.get('totalRedeemed')
+                    totalRedeemed: this.get('totalRedeemed'),
+                    reward: this.get('reward')
                 };
                 return ret;
+            },
+
+            // Return boolean indicating if there is sufficient funds saved up to buy the reward.
+            canRewardBeRedeemed: function() {
+                return (this.get('reward').get('cost') <= this.getTotalAvailable());
+            },
+
+            redeemReward: function () {
+                var currentReward = this.get('reward');
+                var currentCost = currentReward.cost;
+                this.set('totalRedeemed', currentCost + this.get('totalRedeemed'));
             }
 
 });

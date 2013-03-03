@@ -16,13 +16,13 @@
     <AppXManifest Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-03-03T18:23:49.975</Modified>
+      <Modified>2013-03-03T20:00:19.876</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2013-03-03T18:23:47.143</Modified>
+      <Modified>2013-03-03T19:53:19.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
@@ -46,7 +46,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2013-03-03T19:22:25.231</Modified>
+      <Modified>2013-03-03T20:11:31.121</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\lib\backbone.js">
       <PackagePath>js\lib\backbone.js</PackagePath>
@@ -74,7 +74,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\models\account.js">
       <PackagePath>js\models\account.js</PackagePath>
-      <Modified>2013-03-03T19:09:12.493</Modified>
+      <Modified>2013-03-03T20:13:58.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\models\reward.js">
+      <PackagePath>js\models\reward.js</PackagePath>
+      <Modified>2013-03-03T20:05:20.424</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\models\transaction.js">
       <PackagePath>js\models\transaction.js</PackagePath>
@@ -82,7 +86,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\models\venue.js">
       <PackagePath>js\models\venue.js</PackagePath>
-      <Modified>2013-03-03T19:23:39.459</Modified>
+      <Modified>2013-03-03T19:48:08.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\models\week.js">
       <PackagePath>js\models\week.js</PackagePath>
@@ -94,7 +98,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-03-03T18:23:49.740</Modified>
+      <Modified>2013-03-03T20:00:19.767</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

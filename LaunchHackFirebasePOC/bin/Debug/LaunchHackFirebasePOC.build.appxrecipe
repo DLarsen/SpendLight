@@ -56,6 +56,9 @@
     <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\models\account.js">
       <PackagePath>js\models\account.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\models\reward.js">
+      <PackagePath>js\models\reward.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\models\transaction.js">
       <PackagePath>js\models\transaction.js</PackagePath>
     </AppxPackagedFile>

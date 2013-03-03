@@ -67,6 +67,7 @@
     <Content Include="js\lib\jQuery.js" />
     <Content Include="js\lib\underscore.js" />
     <Content Include="js\models\account.js" />
+    <Content Include="js\models\reward.js" />
     <Content Include="js\models\transaction.js" />
     <Content Include="js\models\venue.js" />
     <Content Include="js\models\week.js" />

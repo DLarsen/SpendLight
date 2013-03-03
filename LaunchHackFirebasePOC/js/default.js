@@ -42,13 +42,22 @@
 
                 var venue = selectedAccount.get('venues');
                 var selectedVenue = venue.first();
-                //selectedVenue.createWeek('this week', 100, 0, Date.now());
+                //selectedVenue.createWeek('newest week', 100, 0, Date.now());
 
-                var selectedWeek = selectedVenue.get('weeks').first();
+                var selectedWeek = selectedVenue.get('weeks').last();
                 //selectedWeek.createTransaction('Trans 2', 12, Date.now());
                 //selectedWeek.createTransaction('Trans 2', 1, Date.now());
 
-                selectedAccount.saveAccount();
+                //var newReward = new Reward({
+                //    id: 1,
+                //    name: 'A Cool but moderately priced prize!',
+                //    cost: 15
+                //});
+                //selectedAccount.set('reward', newReward);
+
+                //selectedAccount.redeemReward();
+
+                //selectedAccount.saveAccount();
 
                 var spent = selectedWeek.getSpent();
                 var savings = selectedWeek.getSavings();

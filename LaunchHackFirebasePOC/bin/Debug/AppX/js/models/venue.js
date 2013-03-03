@@ -52,10 +52,13 @@ var Venue = Backbone.Model.extend({
     },
 
     pastWeek: function () {
+        var editableWeekStack; //Copy of the week collection so that the first record can be removed (without harming the actual data)
         var previousWeek;
 
-        previousWeek = this.get('weeks').first();
-        previousWeek.set('name', 'Past Week');
+        editableWeekStack = this.get('weeks');
+        editableWeekStack.pop();
+        previousWeek = editableWeekStack.last();
+        //previousWeek.set('name', 'Past Week');
 
         return previousWeek;
     },
@@ -64,7 +67,7 @@ var Venue = Backbone.Model.extend({
         var currentWeek;
 
         currentWeek = this.get('weeks').last();
-        currentWeek.set('name', 'This Week');
+        //currentWeek.set('name', 'This Week');
         
         return currentWeek;
     },

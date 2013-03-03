@@ -12,6 +12,7 @@ js\lib\FireBaseAPI.js
 js\lib\jQuery.js
 js\lib\underscore.js
 js\models\account.js
+js\models\reward.js
 js\models\transaction.js
 js\models\venue.js
 js\models\week.js
