@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JPOTTER_LAPTOP1</Machine>
+    <WindowsUser>Jesse</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>818EA5B0DEF41B4BB196C500CCDC1ABB27A16B2E8F3D8584225EB876D0CFA819</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b388aeb0-3c87-4e28-86f9-3d2a77eec648_1.0.0.0_neutral__2ysye2qyxxc1e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b388aeb0-3c87-4e28-86f9-3d2a77eec648_2ysye2qyxxc1e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b388aeb0-3c87-4e28-86f9-3d2a77eec648</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jesse</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-03T18:23:49.975</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-03-03T18:23:47.143</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T19:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T19:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T19:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T19:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-03-03T19:22:25.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\lib\backbone.js">
+      <PackagePath>js\lib\backbone.js</PackagePath>
+      <Modified>2013-03-03T17:06:01.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\lib\DataCommands.js">
+      <PackagePath>js\lib\DataCommands.js</PackagePath>
+      <Modified>2013-03-03T15:57:30.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\lib\firebase.js">
+      <PackagePath>js\lib\firebase.js</PackagePath>
+      <Modified>2013-03-02T22:19:11.502</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\lib\FireBaseAPI.js">
+      <PackagePath>js\lib\FireBaseAPI.js</PackagePath>
+      <Modified>2013-03-03T08:29:01.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\lib\jQuery.js">
+      <PackagePath>js\lib\jQuery.js</PackagePath>
+      <Modified>2013-03-02T23:24:56.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\lib\underscore.js">
+      <PackagePath>js\lib\underscore.js</PackagePath>
+      <Modified>2013-03-03T04:34:01.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\models\account.js">
+      <PackagePath>js\models\account.js</PackagePath>
+      <Modified>2013-03-03T19:09:12.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\models\transaction.js">
+      <PackagePath>js\models\transaction.js</PackagePath>
+      <Modified>2013-03-03T18:23:33.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\models\venue.js">
+      <PackagePath>js\models\venue.js</PackagePath>
+      <Modified>2013-03-03T19:23:39.459</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\js\models\week.js">
+      <PackagePath>js\models\week.js</PackagePath>
+      <Modified>2013-03-03T19:21:58.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-07-26T19:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-03-03T18:23:49.740</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="E:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>E:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

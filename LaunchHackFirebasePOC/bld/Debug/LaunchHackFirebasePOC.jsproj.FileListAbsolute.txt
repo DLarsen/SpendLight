@@ -1,0 +1,13 @@
+E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\bin\Debug\resources.pri
+E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\bin\Debug\AppxManifest.xml
+E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\bin\Debug\LaunchHackFirebasePOC.build.appxrecipe
+E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\bld\Debug\priconfig.xml.intermediate
+E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\bld\Debug\layout.resfiles.intermediate
+E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\bld\Debug\resources.resfiles.intermediate
+E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\bld\Debug\pri.resfiles.intermediate
+E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\bld\Debug\priconfig.xml
+E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\bld\Debug\layout.resfiles
+E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\bld\Debug\resources.resfiles
+E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\bld\Debug\pri.resfiles
+E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\bld\Debug\LanguageQualifiers.txt
+E:\Jesse\Programs\LaunchHackFirebasePOC\LaunchHackFirebasePOC\bld\Debug\ProjectArchitectures.txt
