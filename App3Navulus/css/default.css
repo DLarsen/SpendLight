@@ -1,0 +1,120 @@
+﻿body{ background: #35393C linear-gradient(to bottom, #35393C 0%,#8f8e94 100%); }
+xbody{ background: #20323D linear-gradient(to bottom, #0A1116 0%,#20323D 100%); }
+
+.venue {
+    background-position: center center;
+}
+
+.vat {
+vertical-align: top; }
+.mb {
+    margin-bottom: 20px;
+}
+
+.tar {
+    text-align: right;
+}
+
+.mt {
+    margin-top: 20px;
+}
+
+.mts {
+    margin-top: 7px;
+}
+
+.symbol {
+    font-family: 'Segoe UI Symbol';
+}
+.down-arrow { padding-left: 10px; }
+
+.clear { clear: both; }
+
+#banner-logo { text-align: right; position: absolute; top: 30px; right: 30px; }
+#banner-logo img { margin-bottom: 10px; }
+
+@media screen and (-ms-view-state: snapped) {
+
+    #banner-logo { display: block; position: relative; text-align: left; top: 20px; right: 0; }
+        #banner-logo h3 {
+            display: none;
+        }
+    .fragment {
+        -ms-grid-rows: 258px 1fr;
+    }
+
+}
+
+#contenthost {
+    height: 100%;
+    width: 100%;
+}
+
+.fragment {
+    /* Define a grid with rows for a banner and a body */
+    -ms-grid-columns: 1fr;
+    -ms-grid-rows: 128px 1fr;
+    display: -ms-grid;
+    height: 100%;
+    width: 100%;
+}
+
+    .fragment header[role=banner] {
+        /* Define a grid with columns for the back button and page title. */
+        -ms-grid-columns: 120px 1fr;
+        -ms-grid-rows: 1fr;
+        display: -ms-grid;
+    }
+
+        .fragment header[role=banner] .win-backbutton {
+            margin-left: 39px;
+            margin-top: 59px;
+        }
+
+        .fragment header[role=banner] .titlearea {
+            -ms-grid-column: 2;
+            margin-top: 37px;
+        }
+
+            .fragment header[role=banner] .titlearea .pagetitle {
+                width: calc(100% - 20px);
+            }
+
+    .fragment section[role=main] {
+        -ms-grid-row: 2;
+        height: 100%;
+        width: 100%;
+    }
+
+@media screen and (-ms-view-state: snapped) {
+    .fragment header[role=banner] {
+        -ms-grid-columns: auto 1fr;
+        margin-left: 20px;
+    }
+
+        .fragment header[role=banner] .win-backbutton {
+            margin: 0;
+            margin-right: 10px;
+            margin-top: 76px;
+        }
+
+            .fragment header[role=banner] .win-backbutton:disabled {
+                display: none;
+            }
+
+        .fragment header[role=banner] .titlearea {
+            -ms-grid-column: 2;
+            margin-left: 0;
+            margin-top: 68px;
+        }
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+    .fragment header[role=banner] {
+        -ms-grid-columns: 100px 1fr;
+    }
+
+        .fragment header[role=banner] .win-backbutton {
+            margin-left: 29px;
+        }
+}

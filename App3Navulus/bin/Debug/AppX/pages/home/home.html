@@ -1,0 +1,140 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>homePage</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="/css/default.css" rel="stylesheet" />
+    <link href="/pages/home/home.css" rel="stylesheet" />
+    <script src="/pages/home/home.js"></script>
+
+    <!-- Your backbone views. -->
+    <script src="/js/views/templates.js"></script>
+    <script src="/js/views/home-view.js"></script>
+
+</head>
+<body>
+    <!-- The content that will be loaded and displayed. -->
+    <div id="venueListTemplate">
+    </div>
+
+    <script id="xx"></script>
+    <div class="fragment homepage">
+        <div id="banner-logo">
+			<img src="/images/banner-logo.png" />
+			<h3 id="account-indicator">
+                <!-- hard code for now so that we can demo -->
+                <div class="ac1">
+                    <img src="/images/users/user-1.jpg" align="middle" />
+                    <span id="accountName">My Dear Wife</span>
+                    <span class="symbol down-arrow">&#57365;</span>
+                </div>
+                <div class="ac2" style="display: none;">
+                    <img src="/images/users/user-2.jpg" align="middle" />
+                    <span id="accountName">The Kids</span>
+                    <span class="symbol down-arrow">&#57365;</span>
+                </div>
+                <div class="ac3" style="display: none;">
+                    <img src="/images/users/user-3.jpg" align="middle" />
+                    <span id="accountName">Grandma Carol</span>
+                    <span class="symbol down-arrow">&#57365;</span>
+                </div>
+			</h3>
+            <div id="pickAccountFlyout" data-win-control="WinJS.UI.Flyout" style="text-align: left;">
+                <h3>Select an Account</h3>
+                <div class="mt" class="select-account-item">
+                    <button class="select-account-1"><img src="/images/users/user-1.jpg" align="middle"/> My Dear Wife</button>
+                </div>
+                <div class="mt" class="select-account-item">
+                    <button class="select-account-2"><img src="/images/users/user-2.jpg" align="middle"/> The Kids</button>
+                </div>
+                <div class="mt" class="select-account-item">
+                    <button class="select-account-3"><img src="/images/users/user-3.jpg" align="middle"/> Grandma Carol</button>
+                </div>
+            </div>
+		</div>
+        <header aria-label="Header content" role="banner">
+			<button class="win-backbutton" aria-label="Back" disabled type="button"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">Weekly Progress</span>
+            </h1>
+        </header>
+
+
+
+        <section aria-label="Main content" role="main">
+			<div class="kGrid" style="display: -ms-flexbox; -ms-flex-direction: row;">
+				<div class="just-a-flexbox-container">
+					<div class="box-box-row">
+						<div class="box-box-head"><b>WEEKLY</b><br />
+							BUDGET</div>
+						<div class="box-box-head"><b>LAST</b><br />
+							WEEK</div>
+						<div class="box-box-head"><b>THIS</b><br />
+							WEEK</div>
+						<div class="box-box-head"><b>NEXT</b><br />
+							WEEK</div>
+						<div style="clear: both;"></div>
+					</div>
+					<progress id="loading" class="win-large"></progress>
+					<div id="venue-list"></div>
+					<div class="box-box-add">Add Category</div>
+      			</div>
+				<div class="just-a-flexbox-container">
+				</div>
+			</div>  
+		
+	<!--
+            <div class="box-box pastWeek">
+      <div class="spent-amount">1</div>
+      <div class="spent-label">Spent</div>
+      <div class="delta delta-over">
+		<div class="across" style="width: 50%;"></div>
+        <div class="delta-label">$289 Left</div>
+      </div>
+    </div>
+
+    <div class="box-box currentWeek">
+      <div class="spent-amount">1</div>
+      <div class="spent-label">Spent</div>
+      <div class="delta delta-under">
+		<div class="across" style="width: 50%;"></div>
+        <div class="delta-label">$289 Left</div>
+      </div>
+    </div>
+            -->
+
+
+
+	
+		</section>
+
+        <!-- APP BAR -->
+        <div id="commandsAppBar" data-win-control="WinJS.UI.AppBar" data-win-options=""> 
+            <button data-win-control="WinJS.UI.AppBarCommand"
+                data-win-options="{id:'cmdEdit',label:'Edit',icon:'edit',section:'selection',tooltip:'Edit item'}"> 
+            </button> 
+            <button data-win-control="WinJS.UI.AppBarCommand"
+                data-win-options="{id:'cmdDelete',label:'Delete',icon:'delete',section:'selection',tooltip:'Delete item'}"> 
+            </button>
+             <button data-win-control="WinJS.UI.AppBarCommand"
+                 data-win-options="{id:'cmdDelete',label:'Add Venue',icon:'add',section:'global',tooltip:'Add item'}"> 
+            </button>
+            <button data-win-control="WinJS.UI.AppBarCommand"
+                data-win-options="{id:'cmdSave',label:'Save',icon:'save',section:'global',tooltip:'Save'}"> 
+            </button>
+            <hr data-win-control="WinJS.UI.AppBarCommand"
+                data-win-options="{id:'appBarSeparator',type:'separator',section:'global'}" /> 
+            <button data-win-control="WinJS.UI.AppBarCommand"
+                data-win-options="{id:'cmdDelete',label:'Switch Accounts',icon:'switch',section:'global',tooltip:'Add item'}"> 
+            </button>
+
+    </div> 
+
+</body>
+</html>

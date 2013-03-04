@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>show</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="/css/default.css" rel="stylesheet" />
+    <link href="show.css" rel="stylesheet" />
+    <script src="show.js"></script>
+
+    <!-- Your backbone views. -->
+    <script src="/js/views/templates.js"></script>
+    <script src="/js/views/venue-show-view.js"></script>
+
+</head>
+<body>
+    <div class="show fragment">
+        <div id="banner-logo">
+            <img src="/images/banner-logo.png" />
+            <h3>
+                <span id="accountName">Larsen Household</span>
+                <span class="symbol down-arrow">&#57365;</span>
+            </h3>
+        </div>
+        <header aria-label="Header content" role="banner">
+            <button class="win-backbutton" aria-label="Back" disabled type="button"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">THIS IS THE SHOW PAGE</span>
+            </h1>
+        </header>
+        <section aria-label="Main content" role="main">
+            <div class="box-box-row">
+                <div class="box-box-head">
+                    <b>WEEKLY</b><br />
+                    BUDGET
+                </div>
+                <div class="box-box-head pastWeek">
+                    <b>LAST</b><br />
+                    WEEK
+                </div>
+                <div class="box-box-head">
+                    <b>THIS</b><br />
+                    WEEK
+                </div>
+                <div class="box-box-head nextWeek">
+                    <b>NEXT</b><br />
+                    WEEK
+                </div>
+                <div style="clear: both;"></div>
+            </div>
+            <div id="venue-item-view"></div>
+            
+
+
+
+            <div id="trans-list-view">
+                <table>
+                    <tr>
+                        <td class="vat">
+                            <h2 class="mt mb ">Record Spending </h2>
+                            <div class="" style="width: 320px; background-color: transparent;">
+                                Amount:<br />
+                                <input id="amount" type="number" placeholder="$" style="width: 100%; font-size: 32px; text-align: right;" /><br />
+                                <div class="mt mb">
+                                    <label>Spending Review:</label><br />
+                                    <textarea id="comments" style="width: 100%; height: 100px;"></textarea>
+                                </div>
+
+
+                                <div class="mt">
+                                    <label><b>How would you rate your spending?</b></label></div>
+                                <div class="mts mb">
+                                    <button class="btnSaveGood trans-btn btn-under"><span class="symbol">&#57759;</span> Good</button>
+                                    <button class="btnSaveBad trans-btn btn-over"><span class="symbol">&#57758;</span> Bad</button>
+                                </div>
+                            </div>
+                        </td>
+                        <td class="vat"><h2 class="mt mb oneTileOffset">This Week's Spending </h2><div class="trans-list"></div></td>
+                    </tr>
+                </table>
+                <div class="trans-list-item" style="margin-bottom: 20px;">
+                </div>
+                
+            </div>
+
+        </section>
+    </div>
+</body>
+</html>

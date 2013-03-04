@@ -1,0 +1,13 @@
+c:\users\david\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bin\Debug\resources.pri
+c:\users\david\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bin\Debug\AppxManifest.xml
+c:\users\david\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bin\Debug\App3Navulus.build.appxrecipe
+c:\users\david\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bld\Debug\priconfig.xml
+c:\users\david\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bld\Debug\layout.resfiles
+c:\users\david\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bld\Debug\resources.resfiles
+c:\users\david\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bld\Debug\pri.resfiles
+c:\users\david\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bld\Debug\LanguageQualifiers.txt
+c:\users\david\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bld\Debug\ProjectArchitectures.txt
+c:\users\david\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bld\Debug\priconfig.xml.intermediate
+c:\users\david\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bld\Debug\layout.resfiles.intermediate
+c:\users\david\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bld\Debug\resources.resfiles.intermediate
+c:\users\david\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bld\Debug\pri.resfiles.intermediate

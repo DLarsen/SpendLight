@@ -1,0 +1,120 @@
+﻿.show section[role=main] {
+    margin-left: 120px;
+}
+
+
+
+
+.oneTileOffset { margin-left: 157px;}
+.trans-list-item { margin-bottom: 7px; margin-left: 157px; clear: both; }
+
+    .trans-list-item .day {
+        float: left;
+        margin-right: 7px;
+        width: 150px;
+        
+    }
+    .trans-list-item .amt {
+        float: left;
+        font-size: 32px;
+        color: #7B7B7B;
+        line-height: 64px;
+        width: 150px;
+        text-align: right;
+        padding-right: 20px;
+        box-sizing: border-box;
+        
+    }
+
+.btn-over {
+    background-color: #CC2A15;
+}
+.btn-under {
+    background-color: #5A8D00;
+}
+      .trans-list-item .amt-under { background-color: #5A8D00; color: #EEF2E2;  text-shadow: 0 1px 2px #4A7303; }
+      .trans-list-item .amt-over { background-color: #CC2A15; color: #EDB9B1; text-shadow: 0 1px 2px #9D0F05; }
+
+    .trans-list-item .comments {
+        float: left;
+        width: 440px;
+        margin-left: 20px;
+    }
+
+    .comment {
+        background-color: white;
+        color: #555;
+    }
+
+.comment-new {
+    display: none;
+}
+
+.trans-btn {
+font-size: 21px; line-height: 52px;
+}
+
+    .trans-list-item .comment {
+        background-color: #F4F4F4;
+        font-size: 14px;
+        padding: 20px;
+        box-sizing: border-box;
+        border: 1px solid white;
+        color: #767676;
+    }
+        .trans-list-item .comment-time {
+            color: white;
+        margin-bottom: 7px;
+        text-align: right;
+    }
+
+x.trans-list{ width: 600px; border-spacing:0;
+  border-collapse:collapse; }
+x.trans-list .amt { width: 140px; text-align: right;  }
+x.trans-list td { height: 64px; border-top: 1px solid rgba(255,255,255, 0.3); font-size: 32px;}
+
+
+.trans-bar .across-prev,
+.trans-bar .across {
+transition: width 0.4s ease-in;
+height: 40px;
+background: rgba(104,151,2,0.2);
+display: inline-block;
+}
+
+.trans-bar .across {
+transition: width 0.4s ease-in;
+height: 40px;
+background: rgba(104,151,2,1);
+}
+
+
+
+.trans-bar-over { background-color: #CC2A15; width: 100%; }
+
+@media screen and (-ms-view-state: snapped) {
+    .show section[role=main] {
+        margin: 20px;
+    }
+
+        .box-box {
+        width: 140px;
+        margin: 0;
+    }
+
+    .box-box-head {
+        width: 140px;
+        margin: 0;
+    }
+
+    .box-box-this:hover { background-color: #F4f4f4; }
+
+    .pastWeek, .nextWeek { display: none; }
+
+    .trans-list-item , .oneTileOffset {margin-left: 0px; }
+
+        .trans-list-item .day, .trans-list-item .amt {
+            margin: 0;
+            width: 140px;
+        }
+}

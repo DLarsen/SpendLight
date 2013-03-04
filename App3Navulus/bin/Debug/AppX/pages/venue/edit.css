@@ -1,0 +1,9 @@
+﻿.edit section[role=main] {
+    margin-left: 120px;
+}
+
+@media screen and (-ms-view-state: snapped) {
+    .edit section[role=main] {
+        margin: 20px;
+    }
+}

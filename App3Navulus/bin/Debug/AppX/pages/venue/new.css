@@ -1,0 +1,9 @@
+﻿.new section[role=main] {
+    margin-left: 120px;
+}
+
+@media screen and (-ms-view-state: snapped) {
+    .new section[role=main] {
+        margin: 20px;
+    }
+}

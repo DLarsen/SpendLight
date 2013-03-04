@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="582c3131-ef5e-469a-8342-f3929b73ea28" Version="1.0.0.0" Publisher="CN=David" />
+  <Properties>
+    <DisplayName>App3Navulus</DisplayName>
+    <PublisherDisplayName>David</PublisherDisplayName>
+    <Logo>images\icon-50x50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="SpendLight" Logo="images\icon-150x150.png" SmallLogo="images\icon-30x30.png" Description="App3Navulus" ForegroundText="light" BackgroundColor="#20323D">
+        <DefaultTile ShowName="noLogos" WideLogo="images\icon-310x150.png" ShortName="SpendLight" />
+        <SplashScreen Image="images\splashscreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
