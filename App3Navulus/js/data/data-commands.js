@@ -14,9 +14,10 @@
 
         //saves the data to the account node
         save: function (data, callback) {
-            fireBaseAPI.save(data, dataCommands.accountNodeName + data.id, function () {
-                callback();
-            });
+            callback()
+            //fireBaseAPI.save(data, dataCommands.accountNodeName + data.id, function () {
+            //    callback();
+            //});
         },
 
         //Inserts a new account in the account list

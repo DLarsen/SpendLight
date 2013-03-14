@@ -27,6 +27,10 @@ var SpendlightAppView = Backbone.View.extend({
     renderAccount: function () {
         $("#loading").hide();
         var venues = world.currentAccount.get('venues');
+        if (venues.length == 0)
+            $('#onboarding').show();
+        else
+            $('#onboarding').hide();
         var vlv = new VenueListView({ model: venues });
         vlv.render();
         $('.box-box-add').fadeIn();

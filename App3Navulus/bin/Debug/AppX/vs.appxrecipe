@@ -16,7 +16,7 @@
     <AppXManifest Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-03-04T16:06:13.992</Modified>
+      <Modified>2013-03-14T01:33:17.395</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -143,7 +143,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\data\data-commands.js">
       <PackagePath>js\data\data-commands.js</PackagePath>
-      <Modified>2013-03-04T19:30:30.527</Modified>
+      <Modified>2013-03-04T20:23:02.321</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\data\firebase-api.js">
       <PackagePath>js\data\firebase-api.js</PackagePath>
@@ -187,7 +187,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\tiles.js">
       <PackagePath>js\tiles.js</PackagePath>
-      <Modified>2013-03-04T19:08:52.799</Modified>
+      <Modified>2013-03-04T20:22:39.801</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\underscore.js">
       <PackagePath>js\underscore.js</PackagePath>
@@ -199,7 +199,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\views\home-view.js">
       <PackagePath>js\views\home-view.js</PackagePath>
-      <Modified>2013-03-04T17:20:28.841</Modified>
+      <Modified>2013-03-04T21:08:34.997</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\views\templates.js">
       <PackagePath>js\views\templates.js</PackagePath>
@@ -223,7 +223,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\pages\home\home.html">
       <PackagePath>pages\home\home.html</PackagePath>
-      <Modified>2013-03-04T17:06:48.057</Modified>
+      <Modified>2013-03-04T20:24:10.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\default.html">
       <PackagePath>default.html</PackagePath>
@@ -239,7 +239,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\pages\venue\show.html">
       <PackagePath>pages\venue\show.html</PackagePath>
-      <Modified>2013-03-04T19:31:26.388</Modified>
+      <Modified>2013-03-04T20:22:46.432</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

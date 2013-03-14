@@ -39,7 +39,7 @@
     }
 
     function buildWideTileXml(altitude, altitudeUnits) {
-        var wideTemplate = Windows.UI.Notifications.TileTemplateType.tileSquareBlock,
+        var wideTemplate = Windows.UI.Notifications.TileTemplateType.tileWideText01,
                 wideTileLines = [
                     altitude,
                     altitudeUnits
