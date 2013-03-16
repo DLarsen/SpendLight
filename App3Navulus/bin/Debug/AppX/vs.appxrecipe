@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>SPENDLIGHT</Machine>
-    <WindowsUser>David</WindowsUser>
+    <Machine>JPOTTER_LAPTOP1</Machine>
+    <WindowsUser>Jesse</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <RegisteredManifestChecksum>CAF533E1087A0FB7E73CB1C80D490A910B5475243B5D25952FD896909AB1EA93</RegisteredManifestChecksum>
@@ -13,246 +13,250 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="E:\Jesse\Programs\SpendLight\App3Navulus\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-03-14T01:33:17.395</Modified>
+      <Modified>2013-03-16T15:48:20.251</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\css\default.css">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2013-03-04T18:33:08.925</Modified>
+      <Modified>2013-03-16T15:28:58.570</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\pages\home\home.css">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\pages\home\home.css">
       <PackagePath>pages\home\home.css</PackagePath>
-      <Modified>2013-03-04T17:27:01.159</Modified>
+      <Modified>2013-03-16T15:28:58.650</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\pages\venue\edit.css">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\pages\venue\edit.css">
       <PackagePath>pages\venue\edit.css</PackagePath>
-      <Modified>2013-03-04T13:06:36.451</Modified>
+      <Modified>2013-03-16T15:28:58.666</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\pages\venue\new.css">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\pages\venue\new.css">
       <PackagePath>pages\venue\new.css</PackagePath>
-      <Modified>2013-03-04T13:08:02.691</Modified>
+      <Modified>2013-03-16T15:28:58.668</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\pages\venue\show.css">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\pages\venue\show.css">
       <PackagePath>pages\venue\show.css</PackagePath>
-      <Modified>2013-03-04T19:29:10.687</Modified>
+      <Modified>2013-03-16T15:28:58.668</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\banner-logo.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\banner-logo.png">
       <PackagePath>images\banner-logo.png</PackagePath>
-      <Modified>2013-03-04T01:33:07.651</Modified>
+      <Modified>2013-03-16T15:28:58.570</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\icon-150x150.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\icon-150x150.png">
       <PackagePath>images\icon-150x150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-03-04T01:19:47.169</Modified>
+      <Modified>2013-03-16T15:28:58.586</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\icon-30x30.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\icon-30x30.png">
       <PackagePath>images\icon-30x30.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-03-04T01:19:46.626</Modified>
+      <Modified>2013-03-16T15:28:58.586</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\icon-310x150.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\icon-310x150.png">
       <PackagePath>images\icon-310x150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-03-04T01:19:47.178</Modified>
+      <Modified>2013-03-16T15:28:58.589</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\icon-50x50.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\icon-50x50.png">
       <PackagePath>images\icon-50x50.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-03-04T01:19:47.147</Modified>
+      <Modified>2013-03-16T15:28:58.589</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\logo.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
-      <Modified>2013-03-04T01:18:41.825</Modified>
+      <Modified>2013-03-16T15:28:58.591</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\smalllogo.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
-      <Modified>2013-03-04T01:18:57.824</Modified>
+      <Modified>2013-03-16T15:28:58.591</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\splashscreen.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-03-03T16:50:55.970</Modified>
+      <Modified>2013-03-16T15:28:58.591</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\storelogo.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
-      <Modified>2012-07-26T19:30:08.000</Modified>
+      <Modified>2013-03-16T15:28:58.591</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\venues\amazon.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\venues\amazon.png">
       <PackagePath>images\venues\amazon.png</PackagePath>
-      <Modified>2013-03-04T14:10:46.844</Modified>
+      <Modified>2013-03-16T15:28:58.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\venues\costco.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\venues\costco.png">
       <PackagePath>images\venues\costco.png</PackagePath>
-      <Modified>2013-03-04T14:10:43.045</Modified>
+      <Modified>2013-03-16T15:28:58.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\venues\ebay.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\venues\ebay.png">
       <PackagePath>images\venues\ebay.png</PackagePath>
-      <Modified>2013-03-04T15:52:40.371</Modified>
+      <Modified>2013-03-16T15:28:58.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\venues\ralphs.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\venues\ralphs.png">
       <PackagePath>images\venues\ralphs.png</PackagePath>
-      <Modified>2013-03-04T14:10:43.053</Modified>
+      <Modified>2013-03-16T15:28:58.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\venues\starbucks.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\venues\starbucks.png">
       <PackagePath>images\venues\starbucks.png</PackagePath>
-      <Modified>2013-03-04T14:10:47.242</Modified>
+      <Modified>2013-03-16T15:28:58.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\venues\target.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\venues\target.png">
       <PackagePath>images\venues\target.png</PackagePath>
-      <Modified>2013-03-04T15:52:39.385</Modified>
+      <Modified>2013-03-16T15:28:58.601</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\venues\trader-joes.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\venues\trader-joes.png">
       <PackagePath>images\venues\trader-joes.png</PackagePath>
-      <Modified>2013-03-04T14:10:47.267</Modified>
+      <Modified>2013-03-16T15:28:58.601</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\venues\walmart.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\venues\walmart.png">
       <PackagePath>images\venues\walmart.png</PackagePath>
-      <Modified>2013-03-04T15:52:39.405</Modified>
+      <Modified>2013-03-16T15:28:58.601</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\venues\xbox.png">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\venues\xbox.png">
       <PackagePath>images\venues\xbox.png</PackagePath>
-      <Modified>2013-03-04T14:10:43.009</Modified>
+      <Modified>2013-03-16T15:28:58.603</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\forests3.jpg">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\forests3.jpg">
       <PackagePath>images\forests3.jpg</PackagePath>
-      <Modified>2012-04-10T18:20:58.000</Modified>
+      <Modified>2013-03-16T15:28:58.586</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\users\user-1.jpg">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\users\user-1.jpg">
       <PackagePath>images\users\user-1.jpg</PackagePath>
-      <Modified>2013-03-04T14:15:35.720</Modified>
+      <Modified>2013-03-16T15:28:58.591</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\users\user-2.jpg">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\users\user-2.jpg">
       <PackagePath>images\users\user-2.jpg</PackagePath>
-      <Modified>2013-03-04T14:15:35.743</Modified>
+      <Modified>2013-03-16T15:28:58.591</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\images\users\user-3.jpg">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\images\users\user-3.jpg">
       <PackagePath>images\users\user-3.jpg</PackagePath>
-      <Modified>2013-03-04T14:15:35.172</Modified>
+      <Modified>2013-03-16T15:28:58.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\backbone.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\backbone.js">
       <PackagePath>js\backbone.js</PackagePath>
-      <Modified>2013-03-03T20:19:33.452</Modified>
+      <Modified>2013-03-16T15:28:58.603</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\data.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\data.js">
       <PackagePath>js\data.js</PackagePath>
-      <Modified>2013-03-03T17:41:24.679</Modified>
+      <Modified>2013-03-16T15:28:58.603</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\data\data-commands.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\data\data-commands.js">
       <PackagePath>js\data\data-commands.js</PackagePath>
-      <Modified>2013-03-04T20:23:02.321</Modified>
+      <Modified>2013-03-16T15:46:58.593</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\data\firebase-api.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\data\firebase-api.js">
       <PackagePath>js\data\firebase-api.js</PackagePath>
-      <Modified>2013-03-03T21:30:34.668</Modified>
+      <Modified>2013-03-16T15:28:58.603</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\date-extensions.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\data\local-storage-api.js">
+      <PackagePath>js\data\local-storage-api.js</PackagePath>
+      <Modified>2013-03-16T15:53:43.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\date-extensions.js">
       <PackagePath>js\date-extensions.js</PackagePath>
-      <Modified>2013-03-04T08:15:34.356</Modified>
+      <Modified>2013-03-16T15:28:58.603</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\default.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2013-03-04T11:20:12.002</Modified>
+      <Modified>2013-03-16T15:28:58.603</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\jQuery.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\jQuery.js">
       <PackagePath>js\jQuery.js</PackagePath>
-      <Modified>2013-03-03T07:27:25.802</Modified>
+      <Modified>2013-03-16T15:28:58.635</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\models\account.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\models\account.js">
       <PackagePath>js\models\account.js</PackagePath>
-      <Modified>2013-03-04T19:05:30.520</Modified>
+      <Modified>2013-03-16T15:28:58.635</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\models\comment.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\models\comment.js">
       <PackagePath>js\models\comment.js</PackagePath>
-      <Modified>2013-03-04T14:36:54.753</Modified>
+      <Modified>2013-03-16T15:28:58.650</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\models\transaction.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\models\transaction.js">
       <PackagePath>js\models\transaction.js</PackagePath>
-      <Modified>2013-03-04T19:21:09.637</Modified>
+      <Modified>2013-03-16T15:28:58.650</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\models\venue.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\models\venue.js">
       <PackagePath>js\models\venue.js</PackagePath>
-      <Modified>2013-03-04T15:53:07.584</Modified>
+      <Modified>2013-03-16T15:28:58.650</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\models\week.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\models\week.js">
       <PackagePath>js\models\week.js</PackagePath>
-      <Modified>2013-03-04T16:00:25.667</Modified>
+      <Modified>2013-03-16T15:28:58.650</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\navigator.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\navigator.js">
       <PackagePath>js\navigator.js</PackagePath>
-      <Modified>2013-03-03T03:56:31.618</Modified>
+      <Modified>2013-03-16T15:28:58.650</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\tiles.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\tiles.js">
       <PackagePath>js\tiles.js</PackagePath>
-      <Modified>2013-03-04T20:22:39.801</Modified>
+      <Modified>2013-03-16T15:28:58.650</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\underscore.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\underscore.js">
       <PackagePath>js\underscore.js</PackagePath>
-      <Modified>2013-03-03T07:55:28.866</Modified>
+      <Modified>2013-03-16T15:28:58.650</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\views\venue-show-view.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\views\venue-show-view.js">
       <PackagePath>js\views\venue-show-view.js</PackagePath>
-      <Modified>2013-03-04T19:17:43.037</Modified>
+      <Modified>2013-03-16T15:28:58.650</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\views\home-view.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\views\home-view.js">
       <PackagePath>js\views\home-view.js</PackagePath>
-      <Modified>2013-03-04T21:08:34.997</Modified>
+      <Modified>2013-03-16T15:28:58.650</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\js\views\templates.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\js\views\templates.js">
       <PackagePath>js\views\templates.js</PackagePath>
-      <Modified>2013-03-04T19:26:04.192</Modified>
+      <Modified>2013-03-16T15:28:58.650</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\pages\home\home.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\pages\home\home.js">
       <PackagePath>pages\home\home.js</PackagePath>
-      <Modified>2013-03-04T17:09:27.376</Modified>
+      <Modified>2013-03-16T15:28:58.666</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\pages\venue\edit.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\pages\venue\edit.js">
       <PackagePath>pages\venue\edit.js</PackagePath>
-      <Modified>2013-03-04T06:20:02.532</Modified>
+      <Modified>2013-03-16T15:28:58.668</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\pages\venue\new.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\pages\venue\new.js">
       <PackagePath>pages\venue\new.js</PackagePath>
-      <Modified>2013-03-04T19:12:28.035</Modified>
+      <Modified>2013-03-16T15:28:58.668</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\pages\venue\show.js">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\pages\venue\show.js">
       <PackagePath>pages\venue\show.js</PackagePath>
-      <Modified>2013-03-04T08:08:31.012</Modified>
+      <Modified>2013-03-16T15:28:58.668</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\pages\home\home.html">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\pages\home\home.html">
       <PackagePath>pages\home\home.html</PackagePath>
-      <Modified>2013-03-04T20:24:10.357</Modified>
+      <Modified>2013-03-16T15:28:58.666</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\default.html">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2013-03-04T14:41:05.835</Modified>
+      <Modified>2013-03-16T15:48:12.875</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\pages\venue\edit.html">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\pages\venue\edit.html">
       <PackagePath>pages\venue\edit.html</PackagePath>
-      <Modified>2013-03-04T16:01:44.582</Modified>
+      <Modified>2013-03-16T15:28:58.668</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\pages\venue\new.html">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\pages\venue\new.html">
       <PackagePath>pages\venue\new.html</PackagePath>
-      <Modified>2013-03-04T15:39:50.702</Modified>
+      <Modified>2013-03-16T15:28:58.668</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\pages\venue\show.html">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\pages\venue\show.html">
       <PackagePath>pages\venue\show.html</PackagePath>
-      <Modified>2013-03-04T20:22:46.432</Modified>
+      <Modified>2013-03-16T15:28:58.668</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\David\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="E:\Jesse\Programs\SpendLight\App3Navulus\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-03-04T16:06:13.924</Modified>
+      <Modified>2013-03-16T15:48:19.941</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
-    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+    <ResolvedSDKReference Include="E:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
       <Name>Microsoft.WinJS.1.0</Name>
       <Version>1.0.8514.0</Version>
       <Architecture>Neutral</Architecture>
       <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
-      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+      <AppxLocation>E:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
     </ResolvedSDKReference>
   </ItemGroup>
 </Project>

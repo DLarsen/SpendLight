@@ -11,3 +11,16 @@ c:\users\david\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bld
 c:\users\david\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bld\Debug\layout.resfiles.intermediate
 c:\users\david\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bld\Debug\resources.resfiles.intermediate
 c:\users\david\documents\visual studio 2012\Projects\App3Navulus\App3Navulus\bld\Debug\pri.resfiles.intermediate
+E:\Jesse\Programs\SpendLight\App3Navulus\bin\Debug\resources.pri
+E:\Jesse\Programs\SpendLight\App3Navulus\bin\Debug\AppxManifest.xml
+E:\Jesse\Programs\SpendLight\App3Navulus\bin\Debug\App3Navulus.build.appxrecipe
+E:\Jesse\Programs\SpendLight\App3Navulus\bld\Debug\priconfig.xml
+E:\Jesse\Programs\SpendLight\App3Navulus\bld\Debug\layout.resfiles
+E:\Jesse\Programs\SpendLight\App3Navulus\bld\Debug\resources.resfiles
+E:\Jesse\Programs\SpendLight\App3Navulus\bld\Debug\pri.resfiles
+E:\Jesse\Programs\SpendLight\App3Navulus\bld\Debug\LanguageQualifiers.txt
+E:\Jesse\Programs\SpendLight\App3Navulus\bld\Debug\ProjectArchitectures.txt
+E:\Jesse\Programs\SpendLight\App3Navulus\bld\Debug\priconfig.xml.intermediate
+E:\Jesse\Programs\SpendLight\App3Navulus\bld\Debug\layout.resfiles.intermediate
+E:\Jesse\Programs\SpendLight\App3Navulus\bld\Debug\resources.resfiles.intermediate
+E:\Jesse\Programs\SpendLight\App3Navulus\bld\Debug\pri.resfiles.intermediate

@@ -26,6 +26,7 @@ js\backbone.js
 js\data.js
 js\data\data-commands.js
 js\data\firebase-api.js
+js\data\local-storage-api.js
 js\date-extensions.js
 js\default.js
 js\jQuery.js

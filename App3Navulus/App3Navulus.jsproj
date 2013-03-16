@@ -80,6 +80,7 @@
     <Content Include="js\data.js" />
     <Content Include="js\data\data-commands.js" />
     <Content Include="js\data\firebase-api.js" />
+    <Content Include="js\data\local-storage-api.js" />
     <Content Include="js\date-extensions.js" />
     <Content Include="js\default.js" />
     <Content Include="js\jQuery.js" />
